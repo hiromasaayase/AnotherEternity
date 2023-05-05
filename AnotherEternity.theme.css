@@ -38,7 +38,7 @@ $$ |  $$ |$$ |      $$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |      $$\   $$ |
   --Neon-Rgb2: var(--Neon-Line2); /*red noen node #2*/
   --Cards-Background-Color: rgb(63, 0, 64);/*darker cards color*/
   /*Backgrounds*/
-  --master-background: url('https://github.com/xy-nyxy/AnotherEternity/blob/main/background/Master%20Background.png?raw=true'); /*master background*/
+  --master-background: url('https://r4.wallpaperflare.com/wallpaper/1004/322/465/yoasobi-oshi-no-ko-hd-wallpaper-f8762d98c0109c38406c415e4862e48a.jpg'); /*master background*/
   --background-floating: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.2)) , var(--master-background)50% 50%/cover !important; /*background used in normal discord's code*/
   /*Gifs for popouts and stuff*/
   --loop-gif: url('https://github.com/xy-nyxy/AnotherEternity/blob/main/background/loop-gif.gif?raw=true'); /*Used in files background*/
